@@ -35,6 +35,7 @@ SRCS += $(SRCD)/config.c
 SRCS += $(SRCD)/draw.c
 SRCS += $(SRCD)/inputs.c
 SRCS += $(SRCD)/login.c
+SRCS += $(SRCD)/log.c
 SRCS += $(SRCD)/utils.c
 SRCS += $(SUBD)/argoat/src/argoat.c
 SRCS += $(SUBD)/configator/src/configator.c

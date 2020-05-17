@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec /usr/bin/ly "$@" 2>/home/user/ly.log
